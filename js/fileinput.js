@@ -3258,6 +3258,7 @@
         customPreviewTags: {},
         previewSettings: defaultPreviewSettings,
         fileTypeSettings: defaultFileTypeSettings,
+        fileActionSettings: defaultFileActionSettings,
         previewFileIcon: '<i class="glyphicon glyphicon-file"></i>',
         previewFileIconClass: 'file-other-icon',
         previewFileIconSettings: {},
